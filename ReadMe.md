@@ -5,7 +5,6 @@
 ![simple](./screenshots/LeonovM.jpg)
 ![simple+shift](./screenshots/LeonovMShft.jpg)
 ![simple+MAltGr](./screenshots/LeonovMAltGr.jpg)
-![simple+MAltGr](./screenshots/LeonovMShftAltGr.jpg)
 
 # 💾 Installation
 
